@@ -74,6 +74,7 @@ fun App(){
             label =  { Text("Digite a sua altura em cm") },
             keyboardOptions = KeyboardOptions(keyboardType = KeyboardType.Number)
         )
+        Button(onClick = {}) { }
     }
 
 }
